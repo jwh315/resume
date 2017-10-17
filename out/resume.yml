@@ -1,0 +1,75 @@
+basics:
+  name: 'Jacob Holmes'
+  summary: 'Experienced Full Stack Web Developer with a demonstrated history of working in the tech industry. I love learning and growing my skills each and every day. I pride myself on clean code and elegant designs implementations.'
+  location:
+    address: '4221 East Claxton Avenue'
+    postalCode: '85297'
+    city: Gilbert
+    region: Arizona
+  phone: '(623) 698-3791'
+  website: 'https://jacobholmes.info'
+  picture: me.jpeg
+  profiles:
+    -
+      network: LinkedIn
+      username: jwh315
+      url: 'https://www.linkedin.com/in/jwh315'
+    -
+      network: Github
+      username: jwh315
+      url: 'https://github.com/jwh315'
+    -
+      network: Stackoverflow
+      username: jacob
+      url: 'https://stackoverflow.com/users/1298895/jacob'
+work:
+  -
+    company: 'Responsive Data'
+    website: 'https://www.responsivedata.com/'
+    position: 'Lead Developer'
+    startDate: '2016-09-01'
+    summary: 'Develop and plan features and improvements to our various SaaS applications. I also conduct code reviews, evaluations and mentor junior developers'
+    highlights:
+      - 'Built a voicemail marketing platform using ReactJs, Laravel and Twilio'
+      - 'Designed and created a landing page editor (similar to LeadPages) using AngularJs and Laravel'
+      - 'Created a web based conferencing platform using Twilio''s WebRTC Javascript SDK'
+      - 'Migrated our companies entire network to Digital Ocean'
+      - 'Implemented several hosting solutions for our unique company needs, this included a three server MySql cluster and a custom built HaProxy load balancing solution that handles SSL termination for over a thousand domains'
+  -
+    company: 'Responsive Data'
+    website: 'https://www.responsivedata.com/'
+    position: 'Web App Developer'
+    startDate: '2013-05-01'
+    endDate: '2016-09-01'
+    summary: 'Build and maintain several web and mobile applications using a variety of technologies.'
+    highlights:
+      - 'Designed and created an automated contact dialing platform using Twilio'
+      - 'Built our companies external REST API on ZF2'
+      - 'Created a media storage and service platform for our SaaS application similar to dropbox'
+education:
+  -
+    institution: 'Rio Salado Community College'
+    startDate: '2010'
+    area: 'Computer Programming and Computer Technologies'
+    studyType: AAS
+skills:
+  -
+    name: Languages
+    level: Master
+    keywords:
+      - PHP
+      - Javascript
+      - Mysql
+  -
+    name: Frameworks
+    level: Master
+    keywords:
+      - Laravel
+      - React
+      - 'Zend Frameworks 1 & 2'
+  -
+    name: Technologies
+    level: Master
+    keywords:
+      - Mysql
+      - Linux

@@ -1,0 +1,110 @@
+{
+  "name": "Jacob Holmes",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Gilbert",
+    "region": "Arizona",
+    "code": "85297",
+    "address": "4221 East Claxton Avenue"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Lead Developer",
+        "employer": "Responsive Data",
+        "summary": "Develop and plan features and improvements to our various SaaS applications. I also conduct code reviews, evaluations and mentor junior developers",
+        "current": true,
+        "start": "2016-09-01",
+        "url": "https://www.responsivedata.com/",
+        "keywords": [],
+        "highlights": [
+          "Built a voicemail marketing platform using ReactJs, Laravel and Twilio",
+          "Designed and created a landing page editor (similar to LeadPages) using AngularJs and Laravel",
+          "Created a web based conferencing platform using Twilio's WebRTC Javascript SDK",
+          "Migrated our companies entire network to Digital Ocean",
+          "Implemented several hosting solutions for our unique company needs, this included a three server MySql cluster and a custom built HaProxy load balancing solution that handles SSL termination for over a thousand domains"
+        ]
+      },
+      {
+        "position": "Web App Developer",
+        "employer": "Responsive Data",
+        "summary": "Build and maintain several web and mobile applications using a variety of technologies.",
+        "start": "2013-05-01",
+        "end": "2016-09-01",
+        "url": "https://www.responsivedata.com/",
+        "keywords": [],
+        "highlights": [
+          "Designed and created an automated contact dialing platform using Twilio",
+          "Built our companies external REST API on ZF2",
+          "Created a media storage and service platform for our SaaS application similar to dropbox"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Rio Salado Community College",
+        "start": "2010",
+        "summary": "",
+        "area": "Computer Programming and Computer Technologies",
+        "studyType": "AAS"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Languages",
+        "level": "Master",
+        "skills": [
+          "PHP",
+          "Javascript",
+          "Mysql"
+        ]
+      },
+      {
+        "name": "Frameworks",
+        "level": "Master",
+        "skills": [
+          "Laravel",
+          "React",
+          "Zend Frameworks 1 & 2"
+        ]
+      },
+      {
+        "name": "Technologies",
+        "level": "Master",
+        "skills": [
+          "Mysql",
+          "Linux"
+        ]
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jwh315",
+      "user": "jwh315"
+    },
+    {
+      "label": "Github",
+      "network": "Github",
+      "url": "https://github.com/jwh315",
+      "user": "jwh315"
+    },
+    {
+      "label": "Stackoverflow",
+      "network": "Stackoverflow",
+      "url": "https://stackoverflow.com/users/1298895/jacob",
+      "user": "jacob"
+    }
+  ]
+}

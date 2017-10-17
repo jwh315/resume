@@ -1,0 +1,76 @@
+name: 'John Doe'
+info: {}
+meta:
+  format: FRESH@0.6.0
+  version: 0.1.0
+location:
+  city: 'San Francisco'
+  region: California
+  country: US
+  code: 'CA 94115'
+  address: '2712 Broadway St'
+employment:
+  history:
+    -
+      position: President
+      employer: Company
+      summary: Description...
+      start: '2013-01-01'
+      end: '2014-01-01'
+      url: 'http://company.com'
+      keywords: []
+      highlights:
+        - 'Started the company'
+education:
+  level: ""
+  history:
+    -
+      institution: University
+      start: '2011-01-01'
+      end: '2013-01-01'
+      grade: '4.0'
+      curriculum:
+        - 'DB1101 - Basic SQL'
+      summary: ""
+      area: 'Software Development'
+      studyType: Bachelor
+service:
+  history:
+    -
+      type: volunteer
+      position: Volunteer
+      organization: Organization
+      start: '2012-01-01'
+      end: '2013-01-01'
+      url: 'http://organization.com/'
+      summary: Description...
+      highlights:
+        - 'Awarded ''Volunteer of the Month'''
+skills:
+  sets:
+    -
+      name: 'Web Development'
+      level: Master
+      skills:
+        - HTML
+        - CSS
+        - Javascript
+writing:
+  -
+    title: Publication
+    publisher: Company
+    url: 'http://publication.com'
+    date: '2014-10-01'
+    summary: Description...
+recognition:
+  -
+    title: Award
+    date: '2014-11-01'
+    from: Company
+    summary: 'There is no spoon.'
+social:
+  -
+    label: Twitter
+    network: Twitter
+    url: 'http://twitter.com/john'
+    user: john
